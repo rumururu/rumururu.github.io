@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3SAMRT9KZD.com.mkideabox.cakecutchallenge"],
+        "components": [{ "/": "/mkideabox/cake_cut_challenge/play/*" }],
+        "appID": "3SAMRT9KZD.com.mkideabox.cakecutchallenge",
+        "paths": ["/mkideabox/cake_cut_challenge/play/*"]
+      }
+    ]
+  }
+}

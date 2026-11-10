@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mkideabox.cakecutchallenge",
+      "sha256_cert_fingerprints": [
+        "E0:3D:2D:4F:F5:DD:C6:05:C8:AE:F5:79:C0:5A:61:1D:31:E5:06:A1:47:12:B2:D0:74:CA:E0:18:97:74:9B:53",
+        "F5:E6:77:06:1E:A1:54:B1:4B:20:C6:0F:D9:B9:30:08:84:A9:14:4D:B9:9D:3F:85:CA:35:CB:D5:91:84:D7:0A"
+      ]
+    }
+  }
+]
